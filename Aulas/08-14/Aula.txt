@@ -1,0 +1,8 @@
+Manifesto Àgil - https://agilemanifesto.org/iso/ptbr/manifesto.html
+
+matriz de eisenhower
+	A Matriz de Eisenhower é uma ferramenta de gestão de tempo que ajuda a priorizar tarefas com base em sua urgência e importância, permitindo uma melhor tomada de decisão.
+
+pirâmide de glasser
+	A Pirâmide de Aprendizagem de William Glasser é uma teoria que enfatiza a importância do aprendizado ativo e a autonomia do aluno, promovendo uma melhor retenção de conhecimento.
+
